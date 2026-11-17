@@ -83,7 +83,7 @@ const products = [
 
   {id:32,name:"Tomi Watch",price:299.99,rating:4.3,inStock:true,category:"Wristwatches",image:"sev.jpeg",description:"A wristwatch selected to complement everyday outfits and special occasions."},
 
-  {id:33,name:"Poedagar Double Chrono",price:1500.99,rating:5.0,inStock:true,category:"Wristwatches",image:".img1.jpeg",description:"A wristwatch selected to complement everyday outfits and special occasions."},
+  {id:33,name:"Poedagar Double Chrono",price:1500.99,rating:5.0,inStock:true,category:"Wristwatches",image:"img1.jpeg",description:"A wristwatch selected to complement everyday outfits and special occasions."},
 
   {id:34,name:"Poedagar Luxury",price:600.99,rating:4.76,inStock:true,category:"Wristwatches",image:"img2.jpeg",description:"A wristwatch selected to complement everyday outfits and special occasions."},
 
