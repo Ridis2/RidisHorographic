@@ -33,7 +33,7 @@ const products = [
 
   {id:7,name:"2 in 1 Wireless Earbuds",price:19.99,rating:4.3,inStock:true,category:"Audio Accessories",image:"buds1.jpeg",description:"An audio accessory selected for everyday listening. Contact us to confirm the exact model features."},
 
-  {id:8,name:"G-Shock Watch",price:47.99,rating:4.3,inStock:true,category:"Wristwatches",image:"gshock1.jpeg",description:"A wristwatch selected to complement everyday outfits and special occasions."},
+  {id:8,name:"G-Shock Watch",price:47.99,rating:4.3,inStock:true,category:"Wristwatches",image:"shock1.jpeg",description:"A wristwatch selected to complement everyday outfits and special occasions."},
 
   {id:9,name:"Smart Watch",price:199.99,rating:4.3,inStock:true,category:"Smart Watches",image:"smart2.jpeg",description:"A smart wearable option. Contact us to confirm compatibility and available features."},
 
